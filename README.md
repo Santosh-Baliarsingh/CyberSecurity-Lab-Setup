@@ -1,5 +1,9 @@
 # LAB SetUp for CybserSecurity (Blue + Red)
 
+## Disclaimer
+
+- Please read the [DISCLAIMER.md](/DISCLAIMER.md) before using or referencing this content.
+
 ## Problem
 
 - lets say you scan **`Windows OS`** (`vmware` / `virtualbox` / `other`) using **`nmap` tool** (**`kali`**)
